@@ -1,7 +1,15 @@
-In this 
+Locate the Installation Directory: Use the shortcut or file path to find where your main application (e.g., Ashampoo WinOptimizer 27) is installed.
 
-1. -step 1 : https://www.ashampoo.com/frontend/registration/php/trial_step1.php?edition_id=0ma6cqidmmt32w6qrj7vasfvaml9xirc&ref=linktarget
-2. -step 2 : You will get the license key after that and it is important for you to get trial of 30 days of full version 
-3. -step 3 : go to releases
-4. -step 4 : use installer and paste at `C:\Program Files (x86)\Ashampoo´
-5. -step 5 : enjoy !!
+How to Use the DLL File 🚀
+Locate the Program Folder 📂
+
+Right-click on the application shortcut and select “Open file location”.
+Alternatively, navigate manually to the installation directory (e.g., C:\Program Files\Ashampoo\WinOptimizer 27).
+Copy and Replace the DLL 📝
+
+Copy the provided .dll file.
+Paste it into the application's folder.
+If prompted, select “Replace the file in the destination” 🔁.
+Confirm the Replacement ✅
+
+Ensure the file has been successfully replaced and is in the correct directory.
